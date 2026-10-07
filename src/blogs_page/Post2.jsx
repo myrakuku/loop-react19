@@ -7,7 +7,7 @@ export const Post2 = () => {
   // SEO Meta 配置
   useEffect(() => {
     // 基礎 SEO
-    document.title = "Goyard與Hermès 2025手袋保值市場｜價格分析與投資指南｜The Luxe Vault";
+    document.title = "Goyard與Hermès 2025手袋保值市場｜價格分析與投資指南｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
       '2025年Goyard與Hermès手袋保值表現領跑市場！本文解析最新價格數據、保值款式及放售誘因，把握奢侈品投資最佳時機，高價放售閒置手袋。'
     );

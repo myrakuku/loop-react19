@@ -7,7 +7,7 @@ export const Post1 = () => {
   // SEO Meta 配置
   useEffect(() => {
     // 基礎 SEO
-    document.title = "CHANEL手袋加價2025｜投資保值分析｜放售最佳時機｜The Luxe Vault";
+    document.title = "CHANEL手袋加價2025｜投資保值分析｜放售最佳時機｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
       '2025 CHANEL手袋最新加價數據出爐！加價幅度4%-5%，解析Classic Flap/2.55/25等經典款保值率，把握放售最佳時機實現高額回報。'
     );

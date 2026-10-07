@@ -1,5 +1,5 @@
 ### node version
-    v22.19.0
+    v20.19.5
 
 ### Added on 2026.3.26
     Google GTM

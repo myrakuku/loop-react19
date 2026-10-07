@@ -10,9 +10,9 @@ export const Hermes = () => {
 // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
   useEffect(() => {
   // 基礎 SEO 配置 - 替換為 Celine 專屬
-  document.title = "Hermes手袋 | 高價收購閒置Hermes手袋 專業二手名牌收購 放售或購買名牌手袋 | The Luxe Vault";
+  document.title = "Hermes手袋 | 高價收購閒置Hermes手袋 專業二手名牌收購 放售或購買名牌手袋 | THE LOOP luxury";
   document.querySelector('meta[name="description"]')?.setAttribute('content', 
-    'The Luxe Vault專業收購閒置Hermes手袋，提供高價即時估價，安全交易即日過數。了解Hermes手袋回收價值，輕鬆將閒置奢侈品變現。'
+    'THE LOOP luxury專業收購閒置Hermes手袋，提供高價即時估價，安全交易即日過數。了解Hermes手袋回收價值，輕鬆將閒置奢侈品變現。'
   );
   document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
     'Hermes手袋回收, Hermes回收, 名牌手袋回收, 高價收購Hermes, 香港Hermes回收, 閒置Hermes手袋出售'
@@ -34,7 +34,7 @@ export const Hermes = () => {
 
             {/* 第一段 */}
             <p className="text-sm leading-relaxed mb-8">
-              在奢侈品市場上，消費需求持續增長，尤其是在關注名牌手袋的消費者中。Hermes 手袋因其卓越的工藝和獨特的品牌形象而倍受青睞。擁有一個 Hermes 手袋不僅是時尚的象徵，也是投資的明智選擇。然而，隨著款式和需求的變化，您可能會發現某些手袋開始閒置。在這樣的情況下，透過 The Luxe Vault 將您的閒置 Hermes 手袋 轉售，不僅能夠為您增添現金流，還能讓這些奢華手袋在新的主人手中繼續發揮其獨特的魅力。
+              在奢侈品市場上，消費需求持續增長，尤其是在關注名牌手袋的消費者中。Hermes 手袋因其卓越的工藝和獨特的品牌形象而倍受青睞。擁有一個 Hermes 手袋不僅是時尚的象徵，也是投資的明智選擇。然而，隨著款式和需求的變化，您可能會發現某些手袋開始閒置。在這樣的情況下，透過 THE LOOP luxury 將您的閒置 Hermes 手袋 轉售，不僅能夠為您增添現金流，還能讓這些奢華手袋在新的主人手中繼續發揮其獨特的魅力。
             </p>
 
             {/* 第二段標題 + 內容 */}
@@ -46,7 +46,7 @@ export const Hermes = () => {
             {/* 第三段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">市場趨勢反映消費者偏好</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在奢侈品市場中，消費者日益喜愛進行深入的資訊查詢，以充分了解 Hermes 品牌及其手袋的特性。香港作為重要的奢侈品購物市場所表現出的旺盛需求，使得該市場對 Hermes 手袋 的回收至關重要。如今的消費者更希望在購買之前獲取全面的信息，從而做出明智的選擇。透過 The Luxe Vault，您可以輕鬆查詢到有關各個品牌手袋的最新動態及市場評估，幫助您制定最佳的轉售策略。
+              在奢侈品市場中，消費者日益喜愛進行深入的資訊查詢，以充分了解 Hermes 品牌及其手袋的特性。香港作為重要的奢侈品購物市場所表現出的旺盛需求，使得該市場對 Hermes 手袋 的回收至關重要。如今的消費者更希望在購買之前獲取全面的信息，從而做出明智的選擇。透過 THE LOOP luxury，您可以輕鬆查詢到有關各個品牌手袋的最新動態及市場評估，幫助您制定最佳的轉售策略。
             </p>
 
             {/* 第四段標題 + 內容 */}
@@ -58,13 +58,13 @@ export const Hermes = () => {
             {/* 第五段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">專業鑑定，保障您的回收利益</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在 The Luxe Vault，我們的專業團隊對奢侈品手袋的鑑定具有豐富經驗。我們理解品牌形象和市場定位的重要性，因此對 Hermes 手袋的評估相當嚴謹，能夠為您提供準確的市場報價和透明的交易過程。無論您擁有的是經典款還是限量版手袋，我們都致力於保障每位客戶的權益，讓您在交易中感受到安全和信任。
+              在 THE LOOP luxury，我們的專業團隊對奢侈品手袋的鑑定具有豐富經驗。我們理解品牌形象和市場定位的重要性，因此對 Hermes 手袋的評估相當嚴謹，能夠為您提供準確的市場報價和透明的交易過程。無論您擁有的是經典款還是限量版手袋，我們都致力於保障每位客戶的權益，讓您在交易中感受到安全和信任。
             </p>
 
             {/* 第六段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">現在就開始您的手袋回收旅程</h3>
             <p className="text-sm leading-relaxed mb-8">
-              無論您希望釋放閒置的 Hermes 手袋，還是想要在奢侈品市場中獲得可觀的現金回報，The Luxe Vault 都是您值得信賴的選擇。立即聯繫我們，開啟您的 Hermes 手袋 轉售之旅。讓我們協助您實現奢華資產的增值，並以專業的服務和透明的流程為您提供最佳的回收體驗！
+              無論您希望釋放閒置的 Hermes 手袋，還是想要在奢侈品市場中獲得可觀的現金回報，THE LOOP luxury 都是您值得信賴的選擇。立即聯繫我們，開啟您的 Hermes 手袋 轉售之旅。讓我們協助您實現奢華資產的增值，並以專業的服務和透明的流程為您提供最佳的回收體驗！
             </p>
           </div>
 

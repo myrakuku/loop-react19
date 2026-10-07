@@ -7,7 +7,7 @@ export const Post5 = () => {
   // SEO Meta 配置
   useEffect(() => {
     // 基礎 SEO
-    document.title = "CHANEL 2026加價：香港市場價格調整 經典款投資潛力分析｜The Luxe Vault";
+    document.title = "CHANEL 2026加價：香港市場價格調整 經典款投資潛力分析｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
       '2026年CHANEL手袋香港市場加價，Chanel 19漲5.8%、Classic Flap漲4%、2.55漲4.5%，解析經典款保值率及放售投資機會。'
     );

@@ -10,9 +10,9 @@ export const Fendi = () => {
 // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
       useEffect(() => {
       // 基礎 SEO 配置 - 替換為 Celine 專屬
-      document.title = "Fendi手袋 | 高價收購閒置Fendi手袋 專業二手名牌收購 放售或購買名牌手袋 | The Luxe Vault";
+      document.title = "Fendi手袋 | 高價收購閒置Fendi手袋 專業二手名牌收購 放售或購買名牌手袋 | THE LOOP luxury";
       document.querySelector('meta[name="description"]')?.setAttribute('content', 
-        'The Luxe Vault專業收購閒置Fendi手袋，提供高價即時估價，安全交易即日過數。了解Fendi手袋回收價值，輕鬆將閒置奢侈品變現。'
+        'THE LOOP luxury專業收購閒置Fendi手袋，提供高價即時估價，安全交易即日過數。了解Fendi手袋回收價值，輕鬆將閒置奢侈品變現。'
       );
       document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
         'Fendi手袋回收, Fendi回收, 名牌手袋回收, 高價收購Fendi, 香港Fendi回收, 閒置Fendi手袋出售'
@@ -34,7 +34,7 @@ export const Fendi = () => {
 
             {/* 第一段 */}
             <p className="text-sm leading-relaxed mb-8">
-              在奢侈品牌中，Fendi 手袋以其創新的設計和卓越的質量著稱，成為了時尚界的經典之一。擁有一個 Fendi 手袋 不僅彰顯個人品味，更是一項重要的投資。然而，隨著風格的變化，某些手袋可能會逐漸閒置。透過 The Luxe Vault，您可以輕鬆將這些閒置的 Fendi 手袋 賣出，不僅能獲得現金回報，還能讓這些奢華的設計在新主人手中繼續閃耀。
+              在奢侈品牌中，Fendi 手袋以其創新的設計和卓越的質量著稱，成為了時尚界的經典之一。擁有一個 Fendi 手袋 不僅彰顯個人品味，更是一項重要的投資。然而，隨著風格的變化，某些手袋可能會逐漸閒置。透過 THE LOOP luxury，您可以輕鬆將這些閒置的 Fendi 手袋 賣出，不僅能獲得現金回報，還能讓這些奢華的設計在新主人手中繼續閃耀。
             </p>
 
             {/* 第二段標題 + 內容 */}
@@ -46,7 +46,7 @@ export const Fendi = () => {
             {/* 第三段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">消費者在購買奢侈品時的研究不可忽視</h3>
             <p className="text-sm leading-relaxed mb-8">
-              當今的消費者在選擇像 Fendi 這樣的高端品牌時，通常會進行仔細的市場調查。他們希望了解品牌的歷史、手袋的設計特點及其在市場上的表現。為此，提供清晰而詳細的產品資訊將大大增加您手袋的吸引力。透過 The Luxe Vault，您將能獲得豐富的市場資訊，幫助您做出明智的銷售決策，增加轉售成功的機會。
+              當今的消費者在選擇像 Fendi 這樣的高端品牌時，通常會進行仔細的市場調查。他們希望了解品牌的歷史、手袋的設計特點及其在市場上的表現。為此，提供清晰而詳細的產品資訊將大大增加您手袋的吸引力。透過 THE LOOP luxury，您將能獲得豐富的市場資訊，幫助您做出明智的銷售決策，增加轉售成功的機會。
             </p>
 
             {/* 第四段標題 + 內容 */}
@@ -58,13 +58,13 @@ export const Fendi = () => {
             {/* 第五段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">專業鑑定，保障交易的公正性</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在 The Luxe Vault，我們擁有專業的鑑定團隊，致力於為每位賣家提供準確且公正的市場評估。我們理解 Fendi 手袋 的品牌價值，並根據市場狀況進行價格評估。我們的透明報價流程確保每位客戶獲得公平的對待，並保證交易的安全性，讓您在整個過程中感到放心和安心。
+              在 THE LOOP luxury，我們擁有專業的鑑定團隊，致力於為每位賣家提供準確且公正的市場評估。我們理解 Fendi 手袋 的品牌價值，並根據市場狀況進行價格評估。我們的透明報價流程確保每位客戶獲得公平的對待，並保證交易的安全性，讓您在整個過程中感到放心和安心。
             </p>
 
             {/* 第六段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">立即開始您的手袋回收旅程</h3>
             <p className="text-sm leading-relaxed mb-8">
-              如果您擁有閒置的 Fendi 手袋，現在就是轉售的最佳時機。透過 The Luxe Vault，您可以輕鬆實現手袋的價值，獲得理想的現金回報。我們的專業團隊隨時準備為您提供支持，幫助您獲得最佳的銷售體驗。立即聯繫我們，開啟您的 Fendi 手袋 轉售之旅，讓您的奢華資產再度煥發光彩！
+              如果您擁有閒置的 Fendi 手袋，現在就是轉售的最佳時機。透過 THE LOOP luxury，您可以輕鬆實現手袋的價值，獲得理想的現金回報。我們的專業團隊隨時準備為您提供支持，幫助您獲得最佳的銷售體驗。立即聯繫我們，開啟您的 Fendi 手袋 轉售之旅，讓您的奢華資產再度煥發光彩！
             </p>
           </div>
 

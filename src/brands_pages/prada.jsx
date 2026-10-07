@@ -10,9 +10,9 @@ export const Prada = () => {
   // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
   useEffect(() => {
     // 基礎 SEO 配置
-    document.title = "Prada手袋 | 高價收購閒置Prada手袋 專業二手名牌收購 放售或購買名牌手袋 | The Luxe Vault";
+    document.title = "Prada手袋 | 高價收購閒置Prada手袋 專業二手名牌收購 放售或購買名牌手袋 | THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
-      'The Luxe Vault專業收購閒置Prada手袋，提供高價即時估價，安全交易即日過數。了解Prada手袋回收價值，輕鬆將閒置奢侈品變現。'
+      'THE LOOP luxury專業收購閒置Prada手袋，提供高價即時估價，安全交易即日過數。了解Prada手袋回收價值，輕鬆將閒置奢侈品變現。'
     );
     document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
       'Prada手袋回收, Prada回收, 名牌手袋回收, 高價收購Prada, 香港Prada回收, 閒置Prada手袋出售'
@@ -34,7 +34,7 @@ export const Prada = () => {
 
             {/* 第一段 */}
             <p className="text-sm leading-relaxed mb-8">
-              當前，消費需求在奢侈品市場中愈發旺盛，尤其是在香港等地，名牌手袋如 Prada 的熱度持續上升。擁有一個 Prada 手袋不僅是時尚的象徵，更是提升個人形象和地位的利器。然而，隨著款式的更新換代，一些手袋可能會逐漸被閒置。在這樣的情況下，通過 The Luxe Vault 將您的閒置 Prada 手袋轉售，為您帶來更多的現金回報，並讓這些奢華手袋在新的主人手中繼續閃耀。
+              當前，消費需求在奢侈品市場中愈發旺盛，尤其是在香港等地，名牌手袋如 Prada 的熱度持續上升。擁有一個 Prada 手袋不僅是時尚的象徵，更是提升個人形象和地位的利器。然而，隨著款式的更新換代，一些手袋可能會逐漸被閒置。在這樣的情況下，通過 THE LOOP luxury 將您的閒置 Prada 手袋轉售，為您帶來更多的現金回報，並讓這些奢華手袋在新的主人手中繼續閃耀。
             </p>
 
             {/* 第二段標題 + 內容 */}
@@ -64,13 +64,13 @@ export const Prada = () => {
             {/* 第六段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">信任與專業的回收服務</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在 The Luxe Vault，我們明白品牌形象與產品定位的重要性。我們的專業團隊擁有豐富的名牌手袋鑑定知識，能夠準確評估您的 Prada 手袋的市場價值，並提供公正透明的報價。我們重視每位客戶的信任，承諾不收取隱藏費用，讓您在交易過程中感受到安全和保障。這樣的專業服務將幫助您實現手袋的最佳價值，讓您毫無保留地享受回收的樂趣。
+              在 THE LOOP luxury，我們明白品牌形象與產品定位的重要性。我們的專業團隊擁有豐富的名牌手袋鑑定知識，能夠準確評估您的 Prada 手袋的市場價值，並提供公正透明的報價。我們重視每位客戶的信任，承諾不收取隱藏費用，讓您在交易過程中感受到安全和保障。這樣的專業服務將幫助您實現手袋的最佳價值，讓您毫無保留地享受回收的樂趣。
             </p>
 
             {/* 第七段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">現在就開始您的手袋回收旅程</h3>
             <p className="text-sm leading-relaxed">
-              無論您希望釋放閒置的手袋，還是想在奢侈品市場中獲得現金回報，The Luxe Vault 都是您值得信賴的選擇。立即聯繫我們，開始您轉售 Prada 手袋的旅程，實現奢華資產的最大化價值。我們的專業團隊期待為您提供高效、友善的服務，協助您在不斷變化的市場中，找到最合適的交易方案！
+              無論您希望釋放閒置的手袋，還是想在奢侈品市場中獲得現金回報，THE LOOP luxury 都是您值得信賴的選擇。立即聯繫我們，開始您轉售 Prada 手袋的旅程，實現奢華資產的最大化價值。我們的專業團隊期待為您提供高效、友善的服務，協助您在不斷變化的市場中，找到最合適的交易方案！
             </p>
           </div>
 

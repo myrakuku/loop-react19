@@ -10,9 +10,9 @@ export const Goyard = () => {
 // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
       useEffect(() => {
       // 基礎 SEO 配置 - 替換為 Celine 專屬
-      document.title = "Goyard手袋 | 高價收購閒置Goyard手袋 專業二手名牌收購 放售或購買名牌手袋 | The Luxe Vault";
+      document.title = "Goyard手袋 | 高價收購閒置Goyard手袋 專業二手名牌收購 放售或購買名牌手袋 | THE LOOP luxury";
       document.querySelector('meta[name="description"]')?.setAttribute('content', 
-        'The Luxe Vault專業收購閒置Goyard手袋，提供高價即時估價，安全交易即日過數。了解Goyard手袋回收價值，輕鬆將閒置奢侈品變現。'
+        'THE LOOP luxury專業收購閒置Goyard手袋，提供高價即時估價，安全交易即日過數。了解Goyard手袋回收價值，輕鬆將閒置奢侈品變現。'
       );
       document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
         'Goyard手袋回收, Goyard回收, 名牌手袋回收, 高價收購Goyard, 香港Goyard回收, 閒置Goyard手袋出售'
@@ -34,7 +34,7 @@ export const Goyard = () => {
 
             {/* 第一段 */}
             <p className="text-sm leading-relaxed mb-8">
-              作為奢侈品牌的代表，Goyard 手袋以其獨特的設計和卓越的工藝而聞名。擁有一個 Goyard 手袋 不僅是時尚的象徵，更是一種身份的象徵。然而，隨著時間的推移，一些手袋可能會變得閒置。透過 The Luxe Vault，您可以將這些閒置的 Goyard 手袋 賣出，不僅能夠獲得現金回報，還能讓這些奢華的設計在新主人手中繼續發光發熱。
+              作為奢侈品牌的代表，Goyard 手袋以其獨特的設計和卓越的工藝而聞名。擁有一個 Goyard 手袋 不僅是時尚的象徵，更是一種身份的象徵。然而，隨著時間的推移，一些手袋可能會變得閒置。透過 THE LOOP luxury，您可以將這些閒置的 Goyard 手袋 賣出，不僅能夠獲得現金回報，還能讓這些奢華的設計在新主人手中繼續發光發熱。
             </p>
 
             {/* 第二段標題 + 內容 */}
@@ -48,7 +48,7 @@ export const Goyard = () => {
             {/* 第三段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">消費者在購買前的研究變得越來越重要</h3>
             <p className="text-sm leading-relaxed mb-8">
-              當消費者考慮購買奢侈品時，尤其是 Goyard 這樣的高端品牌，他們會進行詳細的市場調查。他們渴望了解商品的獨特性、品牌的歷史以及其他買家的評價。這使得提供詳細且透明的產品信息變得至關重要。透過 The Luxe Vault，您可以輕鬆獲得最新的市場趨勢和產品資訊，幫助您做出明智的銷售決策，提高您的手袋銷售成功率。
+              當消費者考慮購買奢侈品時，尤其是 Goyard 這樣的高端品牌，他們會進行詳細的市場調查。他們渴望了解商品的獨特性、品牌的歷史以及其他買家的評價。這使得提供詳細且透明的產品信息變得至關重要。透過 THE LOOP luxury，您可以輕鬆獲得最新的市場趨勢和產品資訊，幫助您做出明智的銷售決策，提高您的手袋銷售成功率。
             </p>
 
             {/* 第四段標題 + 內容 */}
@@ -60,13 +60,13 @@ export const Goyard = () => {
             {/* 第五段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">專業鑑定，保障交易的公正性</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在 The Luxe Vault，我們擁有一支專業的手袋鑑定團隊，致力於為每位賣家提供準確且公正的市場評估。我們了解 Goyard 手袋 的品牌價值與市場趨勢，因此提供透明的報價過程，讓每位賣家都能獲得公平待遇。在整個交易過程中，我們將提供專業支持，確保您的權益得到保障，讓您在交易中感到信任與安心。
+              在 THE LOOP luxury，我們擁有一支專業的手袋鑑定團隊，致力於為每位賣家提供準確且公正的市場評估。我們了解 Goyard 手袋 的品牌價值與市場趨勢，因此提供透明的報價過程，讓每位賣家都能獲得公平待遇。在整個交易過程中，我們將提供專業支持，確保您的權益得到保障，讓您在交易中感到信任與安心。
             </p>
 
             {/* 第六段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">立即開始您的手袋回收旅程</h3>
             <p className="text-sm leading-relaxed mb-8">
-              如果您擁有閒置的 Goyard 手袋，現在就是轉售的最佳時機。透過 The Luxe Vault，您可以輕鬆實現手袋的價值，獲得理想的回報。我們的專業團隊隨時準備為您提供支持，幫助您獲得最佳的銷售體驗。立即聯繫我們，開啟您的 Goyard 手袋 轉售之旅，讓奢華重新回到市場！
+              如果您擁有閒置的 Goyard 手袋，現在就是轉售的最佳時機。透過 THE LOOP luxury，您可以輕鬆實現手袋的價值，獲得理想的回報。我們的專業團隊隨時準備為您提供支持，幫助您獲得最佳的銷售體驗。立即聯繫我們，開啟您的 Goyard 手袋 轉售之旅，讓奢華重新回到市場！
             </p>
           </div>
 

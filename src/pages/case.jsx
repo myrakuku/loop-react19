@@ -17,9 +17,9 @@ export const Case = () => {
 
 // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
 useEffect(() => {
-    document.title = "真實高價成交案例｜香港名牌手袋收購｜The Luxe Vault";
+    document.title = "真實高價成交案例｜香港名牌手袋收購｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
-      "The Luxe Vault 香港真實高價收購名牌手袋案例，實際成交Hermes、Chanel、Celine等手袋高價記錄，專業鑑定+透明報價，真實案例見證高價收購實力。"
+      "THE LOOP luxury 香港真實高價收購名牌手袋案例，實際成交Hermes、Chanel、Celine等手袋高價記錄，專業鑑定+透明報價，真實案例見證高價收購實力。"
     );
     document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
       "真實高價成交案例, 香港手袋收購金額, Celine高價收購, 名牌手袋實際成交價, 奢侈品收購案例, 高價收購手袋, 香港手袋收購"

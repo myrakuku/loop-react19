@@ -10,9 +10,9 @@ export const Chanel = () => {
 // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
       useEffect(() => {
       // 基礎 SEO 配置 - 替換為 Celine 專屬
-      document.title = "Chanel手袋 | 高價收購閒置Chanel手袋 專業二手名牌收購 放售或購買名牌手袋 | The Luxe Vault";
+      document.title = "Chanel手袋 | 高價收購閒置Chanel手袋 專業二手名牌收購 放售或購買名牌手袋 | THE LOOP luxury";
       document.querySelector('meta[name="description"]')?.setAttribute('content', 
-        'The Luxe Vault專業收購閒置Chanel手袋，提供高價即時估價，安全交易即日過數。了解Chanel手袋回收價值，輕鬆將閒置奢侈品變現。'
+        'THE LOOP luxury專業收購閒置Chanel手袋，提供高價即時估價，安全交易即日過數。了解Chanel手袋回收價值，輕鬆將閒置奢侈品變現。'
       );
       document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
         'Chanel手袋回收, Chanel回收, 名牌手袋回收, 高價收購Chanel, 香港Chanel回收, 閒置Chanel手袋出售'
@@ -34,7 +34,7 @@ export const Chanel = () => {
 
             {/* 第一段 */}
             <p className="text-sm leading-relaxed mb-8">
-              在奢侈品市場中，Chanel 手袋因其獨特的設計和卓越的品質而受到廣泛追捧。作為奢華品牌的代表，Chanel 手袋不僅是時尚風格的象徵，更是一項重要的投資。隨著時尚潮流的變化，您可能會發現一些手袋逐漸閒置。透過 The Luxe Vault，您可以輕鬆將這些閒置的 Chanel 手袋 賣出，不僅能獲得現金回報，還能讓這些美麗的作品在新主人手中繼續發光發熱。
+              在奢侈品市場中，Chanel 手袋因其獨特的設計和卓越的品質而受到廣泛追捧。作為奢華品牌的代表，Chanel 手袋不僅是時尚風格的象徵，更是一項重要的投資。隨著時尚潮流的變化，您可能會發現一些手袋逐漸閒置。透過 THE LOOP luxury，您可以輕鬆將這些閒置的 Chanel 手袋 賣出，不僅能獲得現金回報，還能讓這些美麗的作品在新主人手中繼續發光發熱。
             </p>
 
             {/* 第二段標題 + 內容 */}
@@ -46,7 +46,7 @@ export const Chanel = () => {
             {/* 第三段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">購買前研究成為消費者的新常態</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在購買奢侈品時，消費者通常會進行深入的市場調查，對於 Chanel 這樣的品牌尤為如此。他們渴望了解產品的獨特性、設計理念及其他消費者的評價。這使得提供詳盡的產品資訊變得至關重要，尤其是在競爭激烈的奢侈品市場中。透過 The Luxe Vault 的平台，您將能夠接觸到更多關於市場趨勢和需求的寶貴資訊，幫助您做出明智的銷售決策。
+              在購買奢侈品時，消費者通常會進行深入的市場調查，對於 Chanel 這樣的品牌尤為如此。他們渴望了解產品的獨特性、設計理念及其他消費者的評價。這使得提供詳盡的產品資訊變得至關重要，尤其是在競爭激烈的奢侈品市場中。透過 THE LOOP luxury 的平台，您將能夠接觸到更多關於市場趨勢和需求的寶貴資訊，幫助您做出明智的銷售決策。
             </p>
 
             {/* 第四段標題 + 內容 */}
@@ -58,13 +58,13 @@ export const Chanel = () => {
             {/* 第五段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">專業鑑定，保障交易的公正性</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在 The Luxe Vault，我們理解奢侈品牌的重要性，因此我們的專業團隊提供準確且公正的手袋鑑定服務。我們確保所有 Chanel 手袋 的估價都建立在市場環境和商品狀況的基礎上，並全程保持透明。這樣的服務不僅保障了您的權益，也使得每位賣家在交易過程中感到信任與安心。
+              在 THE LOOP luxury，我們理解奢侈品牌的重要性，因此我們的專業團隊提供準確且公正的手袋鑑定服務。我們確保所有 Chanel 手袋 的估價都建立在市場環境和商品狀況的基礎上，並全程保持透明。這樣的服務不僅保障了您的權益，也使得每位賣家在交易過程中感到信任與安心。
             </p>
 
             {/* 第六段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">立即開始您的手袋回收旅程</h3>
             <p className="text-sm leading-relaxed mb-8">
-              如果您有閒置的 Chanel 手袋，不妨考慮通過 The Luxe Vault 開始您的轉售之旅。我們將協助您獲得理想的回報，讓您的奢華資產得以充分利用。隨時聯繫我們，以獲取更多資訊和專業支持，實現您手袋的真正價值！
+              如果您有閒置的 Chanel 手袋，不妨考慮通過 THE LOOP luxury 開始您的轉售之旅。我們將協助您獲得理想的回報，讓您的奢華資產得以充分利用。隨時聯繫我們，以獲取更多資訊和專業支持，實現您手袋的真正價值！
             </p>
           </div>
 

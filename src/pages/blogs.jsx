@@ -13,12 +13,12 @@ export const Blogs = () => {
 // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
   useEffect(() => {
   // 基礎 SEO 配置 - 替換為 Celine 專屬
-  document.title = "部落格Blog | 名牌手袋市場資訊與回收新知 | The Luxe Vault";
+  document.title = "部落格Blog | 名牌手袋市場資訊與回收新知 | THE LOOP luxury";
   document.querySelector('meta[name="description"]')?.setAttribute('content', 
-    '保持對名牌手袋市場動態的關注，能幫助您做出明智的決策。無論您是想了解最新的市場價值還是計劃轉手閒置的手袋，這都是一個獲得回報的好時機。選擇 The Luxe Vault，我們為您提供專業的服務，助您在當前的名牌手袋市場中找到最佳交易機會。立即聯繫我們，開始您在奢侈品回收的旅程！'
+    '保持對名牌手袋市場動態的關注，能幫助您做出明智的決策。無論您是想了解最新的市場價值還是計劃轉手閒置的手袋，這都是一個獲得回報的好時機。選擇 THE LOOP luxury，我們為您提供專業的服務，助您在當前的名牌手袋市場中找到最佳交易機會。立即聯繫我們，開始您在奢侈品回收的旅程！'
   );
   document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
-    '名牌手袋市場, 手袋回收資訊, 奢侈品回收, 二手名牌手袋, 手袋估價, The Luxe Vault'
+    '名牌手袋市場, 手袋回收資訊, 奢侈品回收, 二手名牌手袋, 手袋估價, THE LOOP luxury'
   );
 }, []);
 
@@ -47,7 +47,7 @@ export const Blogs = () => {
           <span className="text-2xl md:text-3xl font-light inline"> ?</span>
         </div>
         <p className="text-sm md:text-base mt-4 text-center md:text-right max-w-2xl ml-auto">
-          保持對名牌手袋市場動態的關注，能幫助您做出明智的決策。無論您是想了解最新的市場價值還是計劃轉手閒置的手袋，這都是一個獲得回報的好時機。選擇 The Luxe Vault，我們為您提供專業的服務，助您在當前的名牌手袋市場中找到最佳交易機會。立即聯繫我們，開始您在奢侈品回收的旅程！
+          保持對名牌手袋市場動態的關注，能幫助您做出明智的決策。無論您是想了解最新的市場價值還是計劃轉手閒置的手袋，這都是一個獲得回報的好時機。選擇 THE LOOP luxury，我們為您提供專業的服務，助您在當前的名牌手袋市場中找到最佳交易機會。立即聯繫我們，開始您在奢侈品回收的旅程！
         </p>
       </div>
 

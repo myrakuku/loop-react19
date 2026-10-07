@@ -7,7 +7,7 @@ export const Post3 = () => {
   // SEO Meta 配置
   useEffect(() => {
     // 基礎 SEO
-    document.title = "Celine保值率上升 Louis Vuitton需求強勁｜2025手袋投資趨勢｜The Luxe Vault";
+    document.title = "Celine保值率上升 Louis Vuitton需求強勁｜2025手袋投資趨勢｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
       '2025年Celine手袋保值率顯著上升，Louis Vuitton Neverfull/Speedy需求依舊強勁！解析最新價格數據、保值率及放售最佳時機，把握奢侈品投資機會。'
     );

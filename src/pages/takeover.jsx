@@ -4,13 +4,6 @@ import Image1 from '../images/T&A/1.png'
 import Image2 from '../images/T&A/2.png'
 import Image3 from '../images/T&A/3.png'
 
-import Hermes1 from '../images/Whatsapp/Hermes1.jpeg'
-import Hermes2 from '../images/Whatsapp/Hermes2.jpeg'
-import Hermes3 from '../images/Whatsapp/Hermes3.jpeg'
-import Chanel from '../images/Whatsapp/Chanel.jpeg'
-import Dior from '../images/Whatsapp/Dior.jpeg'
-
-
 
 // 主應用組件
 export const Takeover = () => {
@@ -18,23 +11,14 @@ export const Takeover = () => {
   // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
     useEffect(() => {
     // 基礎 SEO 配置 - 替換為 Celine 專屬
-    document.title = "收購及鑑定｜專業名牌手袋鑑定｜高價收購｜The Luxe Vault";
+    document.title = "收購及鑑定｜專業名牌手袋鑑定｜高價收購｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
-      "The Luxe Vault 擁有資深名牌手袋鑑定團隊，精準鑑定Hermes、Chanel、Dior等奢侈品真偽，高價收購無需等待，專業透明的收購流程讓您安心交易。"
+      "THE LOOP luxury 擁有資深名牌手袋鑑定團隊，精準鑑定Hermes、Chanel、Dior等奢侈品真偽，高價收購無需等待，專業透明的收購流程讓您安心交易。"
     );
     document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
       "收購及鑑定, 名牌手袋鑑定, 奢侈品鑑定, 真偽鑑定, 高價收購手袋, 專業鑑定團隊, 香港手袋收購"
   );
   }, []);
-
-  // 品牌數據配置（可替換為真實圖片鏈接和路由）
-  const brandList = [
-    { name: 'Hermes', imgUrl: Hermes1, link: '/brands/hermes' },
-    { name: 'Hermes', imgUrl: Hermes2, link: '/brands/hermes' },
-    { name: 'Hermes', imgUrl: Hermes3, link: '/brands/hermes' },
-    { name: 'Chanel', imgUrl: Chanel, link: '/brands/chanel' },
-    { name: 'Dior', imgUrl: Dior, link: '/brands/dior' }
-  ];
 
 
   return (
@@ -52,7 +36,7 @@ export const Takeover = () => {
 
       {/* 第一段介紹 */}
       <p className="text-sm md:text-base leading-relaxed mb-16 max-w-3xl">
-        在 The Luxe Vault，我們提供便捷的名牌手袋回收服務，讓您輕鬆將閒置的奢侈品轉換為現金。無論是 Chanel、Hermes、Dior、Celine、Fendi、Goyard、Prada、Gucci 等知名品牌，我們都歡迎您的放售。透過即時估價和靈活的收藏方式，我們特別適合忙碌的您，無需擔心繁瑣的過程，我們會全程協助您快速、安全地完成交易。
+        在 THE LOOP luxury，我們提供便捷的名牌手袋回收服務，讓您輕鬆將閒置的奢侈品轉換為現金。無論是 Chanel、Hermes、Dior、Celine、Fendi、Goyard、Prada、Gucci 等知名品牌，我們都歡迎您的放售。透過即時估價和靈活的收藏方式，我們特別適合忙碌的您，無需擔心繁瑣的過程，我們會全程協助您快速、安全地完成交易。
       </p>
 
       {/* 內容區塊 1 */}

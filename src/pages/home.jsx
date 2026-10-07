@@ -1,9 +1,7 @@
 import React, { useEffect } from 'react';
 import Navbar from '../components/Nav'
-import banner from '../../src/images/Luxe_mainbanner.png';
+import banner from '../../src/images/loop_banner.png';
 import Hermes1 from '../images/Whatsapp/Hermes1.jpeg'
-import Hermes2 from '../images/Whatsapp/Hermes2.jpeg'
-import Hermes3 from '../images/Whatsapp/Hermes3.jpeg'
 import Chanel from '../images/Whatsapp/Chanel.jpeg'
 import Dior from '../images/Whatsapp/Dior.jpeg'
 
@@ -34,9 +32,9 @@ export const Home = () => {
   // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
     useEffect(() => {
     // 基礎 SEO 配置 - 替換為 Celine 專屬
-    document.title = "The Luxe Vault | 香港名牌手袋回收專家 | 高價收購二手奢侈品手袋";
+    document.title = "THE LOOP luxury | 香港名牌手袋回收專家 | 高價收購二手奢侈品手袋";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
-      'The Luxe Vault專注香港名牌手袋回收，提供Hermes、Chanel、Dior、Gucci等奢侈品高價即時估價，安全交易即日過數，靈活配合交易地點，輕鬆將閒置手袋變現。'
+      'THE LOOP luxury專注香港名牌手袋回收，提供Hermes、Chanel、Dior、Gucci等奢侈品高價即時估價，安全交易即日過數，靈活配合交易地點，輕鬆將閒置手袋變現。'
     );
     document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
       '香港名牌手袋回收, 二手奢侈品回收, Hermes回收, Chanel回收, Dior回收, Gucci回收, 高價收購手袋, 即日過數'
@@ -79,8 +77,8 @@ export const Home = () => {
         </p>
       </div>
 
-      {/* 關於 The Luxe Vault */}
-      <Section title="關於 The Luxe Vault">
+      {/* 關於 THE LOOP luxury */}
+      <Section title="關於 THE LOOP luxury">
         <p className="mb-4">
           在香港，我們致力於成為您閒置奢華手袋和背袋交易的最佳夥伴。我們深知，奢侈品不僅承載著美學和設計，更是每位顧客獨特性和品味的體現。當您手中有不再使用的二手名牌手袋時，我們希望您能看到其背後的潛在價值。
         </p>
@@ -88,7 +86,7 @@ export const Home = () => {
           在這裡，我們為您提供一個安全、透明且便捷的名牌手袋回收平台，幫助您將閒置的奢侈品透過高價回收，輕鬆快速套現。我們的專業團隊擁有豐富的奢侈品鑑定經驗，緊貼香港二手名牌市場行情，能精準評估您的商品，確保為您提供最公正、最具競爭力的回收報價。
         </p>
         <p>
-          選擇 The Luxe Vault，讓您的閒置珍藏發揮最大價值。我們的名牌回收流程簡便高效，無論您是首次放售還是經驗豐富的賣家，我們都將為您提供一站式的貼心支援。立即將您不再使用的名牌手袋交給我們，輕鬆轉換為豐厚的現金回報！
+          選擇 THE LOOP luxury，讓您的閒置珍藏發揮最大價值。我們的名牌回收流程簡便高效，無論您是首次放售還是經驗豐富的賣家，我們都將為您提供一站式的貼心支援。立即將您不再使用的名牌手袋交給我們，輕鬆轉換為豐厚的現金回報！
         </p>
       </Section>
 
@@ -113,7 +111,7 @@ export const Home = () => {
       {/* 公司理念 */}
       <Section title="公司理念">
         <p className="mb-4">
-          我們的使命是透過精確、高效和透明的回收流程。每一件放售的奢侈品都代表著它背後的故事與價值，我們希望將這些故事傳遞給新的擁有者，讓它們繼續閃耀光芒。The Luxe Vault 致力於創建一個信任的交易環境，塑造良好的二手奢侈品市場，讓每位顧客都能感受到我們對品質和服務的承諾。
+          我們的使命是透過精確、高效和透明的回收流程。每一件放售的奢侈品都代表著它背後的故事與價值，我們希望將這些故事傳遞給新的擁有者，讓它們繼續閃耀光芒。THE LOOP luxury 致力於創建一個信任的交易環境，塑造良好的二手奢侈品市場，讓每位顧客都能感受到我們對品質和服務的承諾。
         </p>
         <p>
           我們執著於專業的鑑定流程，確保每一件商品的真實性和品質，並提供公平合理的估價。我們相信只有在誠信提供專業的基礎上，才能贏得顧客的信任和支持。
@@ -123,13 +121,13 @@ export const Home = () => {
       {/* 收購閒置名牌手袋 */}
       <Section title="收購閒置名牌手袋">
         <p className="mb-4">
-          在 The Luxe Vault，我們專注於回收高品質的手袋和背袋，並歡迎名牌產品(包括 Hermes, Gucci, Louis Vuitton, Chanel, Prada, Goyard, Fendi, Celine, Dior)。
+          在 THE LOOP luxury，我們專注於回收高品質的手袋和背袋，並歡迎名牌產品(包括 Hermes, Gucci, Louis Vuitton, Chanel, Prada, Goyard, Fendi, Celine, Dior)。
         </p>
         <p className="mb-4">
           手袋和背袋是時尚的永恆象徵，能夠顯示出您的獨特品味。我們相信，您的每一件名牌手袋都有其特有的故事，而在您決定出售的那一刻，它又將成為別人的美好回憶。我們的回收服務僅限於手袋和背袋，這使我們能夠專注於每一件商品的價值評估，確保我們為放售的顧客提供最具競爭力的價格。
         </p>
         <p className="mb-4">
-          無論是經典的 Hermes Birkin 手袋，還是時尚的 Gucci 背袋，The Luxe Vault 都是您放售奢侈品的理想之地。您只需提供基本信息，我們的專業團隊將迅速為您提供評估與報價。我們承諾，提供簡單透明的交易過程，確保您可以無憂將舊奢侈品的價值轉化為現實的回報。讓我們幫助您將不再需要的奢侈品找到新主人！
+          無論是經典的 Hermes Birkin 手袋，還是時尚的 Gucci 背袋，THE LOOP luxury 都是您放售奢侈品的理想之地。您只需提供基本信息，我們的專業團隊將迅速為您提供評估與報價。我們承諾，提供簡單透明的交易過程，確保您可以無憂將舊奢侈品的價值轉化為現實的回報。讓我們幫助您將不再需要的奢侈品找到新主人！
         </p>
       </Section>
       {/* 真實名牌袋圖片網格 */}

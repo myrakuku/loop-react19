@@ -7,7 +7,7 @@ export const Post4 = () => {
   // SEO Meta 配置
   useEffect(() => {
     // 基礎 SEO
-    document.title = "G2025手袋價格兩極化：小廢包穩定 中大號手袋漲價｜投資分析｜The Luxe Vault";
+    document.title = "G2025手袋價格兩極化：小廢包穩定 中大號手袋漲價｜投資分析｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
       '2025年奢侈品手袋市場價格兩極化，入門級小廢包（Marc Jacobs/Fendi）價格穩定，Chanel Maxi Hobo/Bottega Veneta Andiamo等功能性中大號手袋漲價，解析保值率及放售投資機會。'
     );

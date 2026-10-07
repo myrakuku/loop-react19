@@ -9,12 +9,12 @@ export const FAQ = () => {
 // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
     useEffect(() => {
     // 基礎 SEO 配置 - 替換為 Celine 專屬
-    document.title = "FAQ | 常見問題｜名牌手袋回收估價服務｜The Luxe Vault";
+    document.title = "FAQ | 常見問題｜名牌手袋回收估價服務｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
-      'The Luxe Vault 名牌手袋回收常見問題，包括估價、上門收袋、付款方式、驗證流程、個人資料保障等一站式解答。'
+      'THE LOOP luxury 名牌手袋回收常見問題，包括估價、上門收袋、付款方式、驗證流程、個人資料保障等一站式解答。'
     );
     document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
-      'FAQ, 常見問題, 手袋回收, 名牌估價, 上門收袋, 即日付款, 奢侈品回收, The Luxe Vault'
+      'FAQ, 常見問題, 手袋回收, 名牌估價, 上門收袋, 即日付款, 奢侈品回收, THE LOOP luxury'
     );
   }, []);
   

@@ -15,9 +15,9 @@ export const Brands = () => {
   // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
     useEffect(() => {
     // 基礎 SEO 配置 - 替換為 Celine 專屬
-    document.title = "收購閒置名牌手袋介紹｜高價回收奢侈品｜The Luxe Vault";
+    document.title = "收購閒置名牌手袋介紹｜高價回收奢侈品｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
-      "The Luxe Vault 收購閒置名牌手袋詳細介紹，涵蓋Hermes、Chanel、Dior等多品牌，高價回收、安全交收、即日過數服務，輕鬆將閒置奢侈品轉化為現金，全程透明無隱藏費用。"
+      "THE LOOP luxury 收購閒置名牌手袋詳細介紹，涵蓋Hermes、Chanel、Dior等多品牌，高價回收、安全交收、即日過數服務，輕鬆將閒置奢侈品轉化為現金，全程透明無隱藏費用。"
     );
     document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
       "收購閒置名牌手袋, 閒置手袋回收, 奢侈品回收介紹, 高價收購手袋, 閒置名牌變現, 多品牌手袋收購, 香港閒置手袋回收"
@@ -54,7 +54,7 @@ export const Brands = () => {
       {/* 品牌介紹文字 */}
       <div className="leading-relaxed text-sm md:text-base font-extralight">
         <p className="mb-12 text-center">
-          在 The Luxe Vault，我們專注於回收高品質的手袋和背袋，特別歡迎各大知名品牌的產品。我們提供的回收服務涵蓋了以下頂級奢侈品牌：
+          在 THE LOOP luxury，我們專注於回收高品質的手袋和背袋，特別歡迎各大知名品牌的產品。我們提供的回收服務涵蓋了以下頂級奢侈品牌：
         </p>
 
         <ul className="list-disc pl-5 mb-8 space-y-2 text-sm md:text-base">
@@ -70,7 +70,7 @@ export const Brands = () => {
         </ul>
 
         <p className="text-sm md:text-base">
-          手袋和背袋不僅是時尚的永恆象徵，更反映出您的獨特品味。我們相信，您的每一件名牌手袋都有其獨特的故事，當您選擇將其出售時，它又將成為別人的珍貴回憶。The Luxe Vault 是您放售名牌珍品的理想選擇，透過我們的專業服務，您可以輕鬆實現奢華價值的轉換。讓我們一起幫助這些珍品找到新的擁有者吧！
+          手袋和背袋不僅是時尚的永恆象徵，更反映出您的獨特品味。我們相信，您的每一件名牌手袋都有其獨特的故事，當您選擇將其出售時，它又將成為別人的珍貴回憶。THE LOOP luxury 是您放售名牌珍品的理想選擇，透過我們的專業服務，您可以輕鬆實現奢華價值的轉換。讓我們一起幫助這些珍品找到新的擁有者吧！
         </p>
       </div>
       {/* 真實名牌袋圖片網格 */}

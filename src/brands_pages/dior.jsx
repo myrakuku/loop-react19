@@ -10,9 +10,9 @@ export const Dior = () => {
 // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
       useEffect(() => {
       // 基礎 SEO 配置 - 替換為 Celine 專屬
-      document.title = "Dior手袋 | 高價收購閒置Dior手袋 專業二手名牌收購 放售或購買名牌手袋 | The Luxe Vault";
+      document.title = "Dior手袋 | 高價收購閒置Dior手袋 專業二手名牌收購 放售或購買名牌手袋 | THE LOOP luxury";
       document.querySelector('meta[name="description"]')?.setAttribute('content', 
-        'The Luxe Vault專業收購閒置Dior手袋，提供高價即時估價，安全交易即日過數。了解Dior手袋回收價值，輕鬆將閒置奢侈品變現。'
+        'THE LOOP luxury專業收購閒置Dior手袋，提供高價即時估價，安全交易即日過數。了解Dior手袋回收價值，輕鬆將閒置奢侈品變現。'
       );
       document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
         'Dior手袋回收, Dior回收, 名牌手袋回收, 高價收購Dior, 香港Dior回收, 閒置Dior手袋出售'
@@ -34,7 +34,7 @@ export const Dior = () => {
 
             {/* 第一段 */}
             <p className="text-sm leading-relaxed mb-8">
-              Dior 手袋以其簡約而優雅的設計而聞名，成為時尚界無可替代的奢侈品。擁有一個 Dior 手袋 不僅是時尚的象徵，也是個人品味的體現。然而，隨著風格的變化，某些手袋可能會變得閒置。透過 The Luxe Vault，您可以輕鬆將這些閒置的 Dior 手袋 賣出，獲得現金回報，讓這些精美的設計在新主人手中繼續發光。
+              Dior 手袋以其簡約而優雅的設計而聞名，成為時尚界無可替代的奢侈品。擁有一個 Dior 手袋 不僅是時尚的象徵，也是個人品味的體現。然而，隨著風格的變化，某些手袋可能會變得閒置。透過 THE LOOP luxury，您可以輕鬆將這些閒置的 Dior 手袋 賣出，獲得現金回報，讓這些精美的設計在新主人手中繼續發光。
             </p>
 
             {/* 第二段標題 + 內容 */}
@@ -46,7 +46,7 @@ export const Dior = () => {
             {/* 第三段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">消費者購買時的研究十分重要</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在當今的奢侈品市場中，消費者在選擇像 Dior 這樣的高端品牌時，往往會進行徹底的市場調查。他們希望了解產品的獨特性、品牌歷史以及其他用戶的評價。提供詳細且透明的產品資訊是成功銷售的關鍵。透過 The Luxe Vault，您將能獲得最新的市場情報，幫助您做出明智的銷售決策，並提升手袋的銷售潛力。
+              在當今的奢侈品市場中，消費者在選擇像 Dior 這樣的高端品牌時，往往會進行徹底的市場調查。他們希望了解產品的獨特性、品牌歷史以及其他用戶的評價。提供詳細且透明的產品資訊是成功銷售的關鍵。透過 THE LOOP luxury，您將能獲得最新的市場情報，幫助您做出明智的銷售決策，並提升手袋的銷售潛力。
             </p>
 
             {/* 第四段標題 + 內容 */}
@@ -58,13 +58,13 @@ export const Dior = () => {
             {/* 第五段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">專業鑑定，保障交易的公正性</h3>
             <p className="text-sm leading-relaxed mb-8">
-              在 The Luxe Vault，我們理解每一個 Dior 手袋 都擁有其獨特的價值，因此我們提供專業的鑑定服務。我們的專業團隊將為您的手袋提供準確、公正的市場估價，並確保整個交易過程的透明與安全。這不僅能保障您的權益，還能讓每位賣家感到信任與安心，促進雙方的良好合作。
+              在 THE LOOP luxury，我們理解每一個 Dior 手袋 都擁有其獨特的價值，因此我們提供專業的鑑定服務。我們的專業團隊將為您的手袋提供準確、公正的市場估價，並確保整個交易過程的透明與安全。這不僅能保障您的權益，還能讓每位賣家感到信任與安心，促進雙方的良好合作。
             </p>
 
             {/* 第六段標題 + 內容 */}
             <h3 className="text-sm font-medium mb-3 text-center md:text-left">立即開始您的手袋回收旅程</h3>
             <p className="text-sm leading-relaxed mb-8">
-              如果您擁有閒置的 Dior 手袋，現在是您轉售的最佳時機。透過 The Luxe Vault，您可以輕鬆實現手袋的價值，獲得理想的現金回報。我們的專業團隊隨時準備為您提供支持與服務，助您順利完成銷售。立即聯繫我們，開啟您的 Dior 手袋 轉售之旅，讓奢華資產再次煥發光彩！
+              如果您擁有閒置的 Dior 手袋，現在是您轉售的最佳時機。透過 THE LOOP luxury，您可以輕鬆實現手袋的價值，獲得理想的現金回報。我們的專業團隊隨時準備為您提供支持與服務，助您順利完成銷售。立即聯繫我們，開啟您的 Dior 手袋 轉售之旅，讓奢華資產再次煥發光彩！
             </p>
           </div>
 

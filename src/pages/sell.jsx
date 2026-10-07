@@ -12,9 +12,9 @@ export const Sell = () => {
   // 原生 React 設置 Meta 標籤（兼容所有 React 框架）
     useEffect(() => {
     // 基礎 SEO 配置 - 替換為 Celine 專屬
-    document.title = "如何放售｜名牌手袋回收流程｜The Luxe Vault";
+    document.title = "如何放售｜名牌手袋回收流程｜THE LOOP luxury";
     document.querySelector('meta[name="description"]')?.setAttribute('content', 
-      "The Luxe Vault 名牌手袋放售教學，簡單3步驟：線上估價、預約交收、即日收款。輕鬆安全放售閒置奢侈品手袋。"
+      "THE LOOP luxury 名牌手袋放售教學，簡單3步驟：線上估價、預約交收、即日收款。輕鬆安全放售閒置奢侈品手袋。"
     );
     document.querySelector('meta[name="keywords"]')?.setAttribute('content', 
       "如何放售, 手袋放售, 名牌手袋回收, 放售流程, 線上估價, 即日收款, 奢侈品放售"
@@ -115,9 +115,9 @@ export const Sell = () => {
         ))}
       </div>
 
-      {/* 為何選擇 The Luxe Vault */}
+      {/* 為何選擇 THE LOOP luxury */}
       <div className="pt-6 border-t border-gray-100 mb-10">
-        <h3 className="text-sm font-medium mb-4">為何選擇 The Luxe Vault ?</h3>
+        <h3 className="text-sm font-medium mb-4">為何選擇 THE LOOP luxury ?</h3>
         <p className="text-sm leading-relaxed">
           只需三個簡單步驟，您就能夠輕鬆將名牌手袋轉換為現金：Step 1 WhatsApp 即時估價；<br/>
           Step 2 安排專人上門收袋；Step 3 即日收款完成交易。滿意的報價即可意味著現金到手，快速、安全又無煩惱！

@@ -80,7 +80,7 @@ function Nav() {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           {/* Logo */}
           <a href="/" className="text-xl font-playfair font-regular text-text-primary">
-            The Luxe Vault
+            THE LOOP luxury
           </a>
 
           {/* 桌面端菜單（隱藏手機版） */}

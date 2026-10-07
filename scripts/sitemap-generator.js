@@ -30,7 +30,7 @@ const routes = [
 ];
 
 function generateSitemap() {
-  const baseUrl = 'https://theluxevaulthk.com';
+  const baseUrl = 'https://luxevaulthk.com';
   const currentDate = new Date().toISOString().split('T')[0];
   
   const urls = routes.map(route => 
@@ -65,7 +65,7 @@ ${urls}
 }
 
 function generateRobotsTxt() {
-  const baseUrl = 'https://theluxevaulthk.com';
+  const baseUrl = 'https://luxevaulthk.com';
   
   const robotsContent = `# https://www.robotstxt.org/robotstxt.html
 User-agent: *
